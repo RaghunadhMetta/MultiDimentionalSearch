@@ -1,9 +1,3 @@
-/*
- *Authors : Abhitej Boorla
- *		  : Chandrika Cherukuri
- *		  : Mandanapu Anvesh
- *		  : Raghunadh Metta
- */
 
 package cs6301.g11;
 
