@@ -1,9 +1,3 @@
-/*
- *Authors : Abhitej Boorla
- *		  : Chandrika Cherukuri
- *		  : Mandanapu Anvesh
- *		  : Raghunadh Metta
- */
 
 
 
